@@ -1,4 +1,4 @@
 
-###### Sistema de ventas Web
+## Sistema de ventas Web
 
-## .NET Core y SQL Server 
+#### .NET Core y SQL Server 
